@@ -142,6 +142,21 @@
 
 #######################################################################################
 
+# Given a list of lists, calculate the average number of elements per list.
+
+# Input:[[1, 2, 3], [10], [5, 6]]
+# Lengths → 3, 1, 2       Average → (3 + 1 + 2) / 3 = 2       Output:2
+
+#######################################################################################
+
+# Given a collection of sorted lists, write a function that uses binary search to determine whether a target value exists in each list.
+# Return a list of booleans indicating the result for every list.
+
+# Input:  Lists = [[1, 4, 6], [2, 3, 9, 12], []]      Target = 3
+# Output: [False, True, False]
+
+#######################################################################################
+
 # Array
 # String 
 # Dictionary 
